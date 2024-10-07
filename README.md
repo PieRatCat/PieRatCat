@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hej!
+
+My name is Amanda. I am a data science student at EC Utbildning in Helsingborg, Sweden.
+
+The current course is Python and statistical data analysis.
+
 
 <!--
 **PieRatCat/PieRatCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
