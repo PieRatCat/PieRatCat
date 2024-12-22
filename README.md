@@ -2,7 +2,9 @@
 
 My name is Amanda. I am a data science student at EC Utbildning in Helsingborg, Sweden.
 
-The current course is Python and statistical data analysis.
+The current course is SQL.
+
+The previous course was Python and statistical data analysis.
 
 
 <!--
