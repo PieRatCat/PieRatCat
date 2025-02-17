@@ -2,11 +2,9 @@
 
 My name is Amanda. I am a data science student at EC Utbildning in Helsingborg, Sweden.
 
-The current course is Business Intelligence.
+The current course is Machine Learning.
 
-The previous course was SQL.
-
-The course before that was Python and statistical data analysis.
+The previous courses were Business Intelligence, SQL, Python and statistical data analysis.
 
 
 <!--
