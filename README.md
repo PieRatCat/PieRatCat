@@ -2,9 +2,9 @@
 
 My name is Amanda. I am a data science student at EC Utbildning in Helsingborg, Sweden.
 
-The current course is R programming.
+The current course is Deep Learning.
 
-The previous courses were Machine Learning, Business Intelligence, SQL, Python and statistical data analysis.
+The previous courses were R-programming, Machine Learning, Business Intelligence, SQL, Python and statistical data analysis.
 
 
 <!--
