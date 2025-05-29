@@ -1,11 +1,11 @@
 # Hej! 
 
-My name is Amanda. I'm an aspiring Data Scientist and AI Developer.  
-Here you will find my projects, primarily focusing on Python, SQL, Jupyter Notebooks (usually developed in VS Code), and Google AI API integrations.  
+My name is Amanda. I'm an aspiring data scientist and AI developer.  
+Here you will find my projects, primarily focusing on Python, SQL, Jupyter Notebooks, and Google AI API integrations.  
 
 ### About me  
 
-Current focus: Data Science & AI Development  
+Current focus: Data science & AI development  
 Education: Currently pursuing a 2-year professional diploma in Data Science (graduating May 2026).  
 I also hold a Master's in Historical Archaeology from Lund University and a BA in Anthropology from the University of Central Florida.  
 Professional Background: AI Developer, working with Microsoft Power Platform and Microsoft apps.  
