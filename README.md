@@ -6,7 +6,7 @@ Here you will find my projects, primarily focusing on Python, SQL, Jupyter Noteb
 ### About me  
 
 Current focus: Data science & AI development  
-Education: Currently pursuing a 2-year professional diploma in Data Science (graduating May 2026). 
+Education: Currently pursuing a 2-year professional diploma in Data Science (graduating May 2026).  
 Professional Background: AI Developer, working with Microsoft Power Platform and Microsoft apps.  
 Location: Helsingborg, Sweden  
 
